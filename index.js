@@ -30,6 +30,7 @@ function getFilms() {
 
             //Display first movie on the menu when page loads
             fetch(allFilms)
+            let url ="http://localhost:3004/films"
             .then(res=>res.json())
             .then(data=>{
                 moviePoster.src = data.films[0].poster
