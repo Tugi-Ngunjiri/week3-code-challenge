@@ -12,7 +12,7 @@ Liscence(ISC)
 
 1.Create a Git Repository.
 git hub link.
-https://github.com/Tugi-Ngunjiri/week3-code-challenge/edit/master/readme.md
+https://darling-peony-a050bf.netlify.app/
 
 2. Git clone the repository in the terminal.
 
