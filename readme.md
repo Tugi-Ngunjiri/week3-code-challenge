@@ -11,9 +11,11 @@ Liscence(ISC)
 
 
 1.Create a Git Repository.
-
+git hub link.
+https://github.com/Tugi-Ngunjiri/week3-code-challenge/edit/master/readme.md
 
 2. Git clone the repository in the terminal.
+
 3.Open your Ls(list) to check for your file.
 
 4.Copy and paste your file after the cd command.
